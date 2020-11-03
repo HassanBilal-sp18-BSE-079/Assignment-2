@@ -1,0 +1,13 @@
+.result {
+  border: 2px solid red;
+  padding: 5px;
+  margin: 5px;
+}
+.container {
+  background-color: rgb(182, 182, 182);
+}
+
+.chk label:hover {
+  background-color: rgb(145, 246, 250);
+  border-bottom: 2px solid rgb(0, 0, 126);
+}
